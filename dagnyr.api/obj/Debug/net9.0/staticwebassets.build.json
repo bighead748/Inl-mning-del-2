@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x/LASpZ/5xPAfv4ciVJ1WziCd72AVF0DnryLbqi58GM=",
+  "Source": "dagnyr.api",
+  "BasePath": "_content/dagnyr.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

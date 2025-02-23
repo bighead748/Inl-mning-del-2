@@ -1,0 +1,37 @@
+[
+    {
+        "customerId": 1,
+        "storeName": "Demo1",
+        "contactPerson": "Mike1",
+        "email": "Demo1@gmail.com",
+        "phone": "111-111 11 11",
+        "addresses":
+        [
+            {
+                "addressLine": "Demo1vägen 1",
+                "postalCode": "111 11",
+                "city": "Demo1stad",
+                "addressType": "Invoice"
+            }
+        ]
+
+    },
+
+    {
+        "customerId": 2,
+        "storeName": "Demo2",
+        "contactPerson": "Mike2",
+        "email": "Demo2@gmail.com",
+        "phone": "222-222 22 22",
+        "addresses": [
+            {
+                "addressLine": "Demo2vägen 2",
+                "postalCode": "222 22",
+                "city": "Demo2stad",
+                "addressType": "Delivery"
+            }
+        ]
+    }
+
+   
+]

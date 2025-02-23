@@ -1,0 +1,17 @@
+[
+    {
+        "orderInformationId": 1,
+        "productId": 1,
+        "customerId": 1,
+        "quantity": 1,
+        "priceperpiece": 10
+    },
+    {
+        "orderInformationId": 2,
+        "customerId": 2,
+        "productId": 2,
+        "quantity": 4,
+        "priceperpiece": 40
+    }
+
+]

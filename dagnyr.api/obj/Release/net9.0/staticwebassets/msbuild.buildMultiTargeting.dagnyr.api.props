@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dagnyr.api.props" />
+</Project>

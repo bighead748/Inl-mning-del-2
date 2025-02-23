@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GESOVVJt3xYYrJm9l4FMkbTBw0cTUVyJaFgDLaiOdQ8=",
+  "Source": "dagnyr.api",
+  "BasePath": "_content/dagnyr.api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

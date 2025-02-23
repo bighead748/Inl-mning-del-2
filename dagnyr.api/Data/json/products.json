@@ -1,0 +1,52 @@
+[
+    {
+        "itemNumber": "AAA111",
+        "productName":  "Mjöl",
+        "pricePerPiece": 10.00,
+        "weightKg": 1.00,
+        "quantityInPackage": 1,
+        "expireDate": "2021-12-31",
+        "manufacturingDate": "2021-01-01"
+    },
+
+    {
+        "itemNumber": "BBB222",
+        "productName":  "MjölK",
+        "pricePerPiece": 20.00,
+        "weightKg": 2.00,
+        "quantityInPackage": 2,
+        "expireDate": "2021-12-31",
+        "manufacturingDate": "2021-01-01"
+
+    },
+
+    {
+        "itemNumber": "CCC333",
+        "productName":  "Socker",
+        "pricePerPiece": 30.00,
+        "weightKg": 3.00,
+        "quantityInPackage": 3,
+        "expireDate": "2021-12-31",
+        "manufacturingDate": "2021-01-01"
+    },
+
+    {
+        "itemNumber": "DDD444",
+        "productName":  "Salt",
+        "pricePerPiece": 40.00,
+        "weightKg": 4.00,
+        "quantityInPackage": 4,
+        "expireDate": "2021-12-31",
+        "manufacturingDate": "2021-01-01"
+    },
+
+    {
+        "itemNumber": "EEE555",
+        "productName":  "Honung",
+        "pricePerPiece": 50.00,
+        "weightKg": 5.00,
+        "quantityInPackage": 5,
+        "expireDate": "2021-12-31",
+        "manufacturingDate": "2021-01-01"
+    }
+]
